@@ -4,7 +4,7 @@ This project predicts burnout risk based on lifestyle indicators such as sleep h
 Technologies Used:
 - Python
 - Machine Learning (Decision Tree)
-- Streamlit
+- Streamlit (Interactive Prediction Dashboard)
 - Numpy
 - Pandas
 - Matplotlib
@@ -16,3 +16,5 @@ Features:
 - Personalized Recovery Strategies
 - Explainable AI-based reasoning
 
+Live App:
+https://burnout-risk-prediction-system-okcvjbx4chgems9ypjp5kp.streamlit.app/#prediction-result
